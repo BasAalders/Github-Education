@@ -16,8 +16,8 @@ Met GitHub Education kun je gratis toegang krijgen tot handige tools zoals GitHu
 
 ## Stap 3: Vul Jouw Adres In
 1. Ga naar jouw profielinstellingen.
-2. Klik op **"Profile"**.
-3. Vul jouw adres in onder het veld "Location". Dit is optioneel, maar kan helpen bij verificatie.
+2. Klik op **"Billing plans & information"**.
+3. Vul jouw gegevens in onder het veld "Billing information". Dit is optioneel, maar kan helpen bij verificatie.
 
 ## Stap 4: Verkrijg Bewijs van Inschrijving bij Jouw School
 1. Log in op **Magister** of een vergelijkbare schoolapplicatie.
@@ -28,7 +28,7 @@ Met GitHub Education kun je gratis toegang krijgen tot handige tools zoals GitHu
 1. Ga naar [GitHub Education](https://education.github.com/pack).
 2. Klik op "Get your pack" en log in op jouw GitHub-account.
 3. Volg de stappen om jouw aanvraag in te dienen:
-    - Upload het bewijs van inschrijving dat je in de vorige stap hebt gedownload.
+    - Stuur het bewijs van inschrijving dat je in de vorige stap hebt gedownload naar je telefoon en maak dan met je laptop camera een foto van je telefoon.
     - Controleer dat alle andere vereisten (zoals een geverifieerd e-mailadres en 2FA) voldaan zijn.
 4. Wacht op een bevestiging van GitHub. Dit kan enkele dagen duren.
 
