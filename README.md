@@ -5,7 +5,7 @@ Met GitHub Education kun je gratis toegang krijgen tot handige tools zoals GitHu
 ## Stap 1: Activeer Twee-factor Authenticatie (2FA)
 1. Ga naar [GitHub](https://github.com) en log in op jouw account.
 2. Ga naar jouw profielinstellingen door rechtsboven op je avatar te klikken en "Settings" te kiezen.
-3. Klik in het menu links op **"Security"**.
+3. Klik in het menu links op **"Pasword and authentication"**.
 4. Kies "Enable two-factor authentication" en volg de instructies om 2FA in te stellen. Je hebt een authenticator-app nodig zoals Google Authenticator of Authy.
 
 ## Stap 2: Verifieer Jouw E-mailadres
