@@ -31,7 +31,6 @@ Je hebt een authentication app nodig zoals bijvoorbeeld Google Authenticator:
 1. Ga naar Magister.
 2. Klik op je profiel foto -> `Mijn Gegevens`.
 3. Download je inschrijvingsbevestiging en stuur deze naar je telefoon (bijvoorbeeld via e-mail).
-4. Zorg dat het document goed leesbaar is en upload dit.
 
 ![Screenshot 3](./schermafbeelding3.png)
 
@@ -41,7 +40,7 @@ Je hebt een authentication app nodig zoals bijvoorbeeld Google Authenticator:
 
 1. Ga naar [GitHub Education](https://education.github.com/pack).
 2. Klik op `Get Student Benefits` en vul de gevraagde informatie in.
-3. Voeg je school e-mailadres toe en upload je document.
+3. Maak een foto van je telefoon waar je het document op open hebt. MOET GOED LEESBAAR ZIJN!!!
 4. Dien de aanvraag in. Binnen 8 dagen krijg je een reactie.
 
 ![Screenshot 4](./schermafbeelding4.png)
